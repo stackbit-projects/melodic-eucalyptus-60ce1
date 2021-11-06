@@ -30,7 +30,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "images/bearded_tux.png"
+        "logo": "images/bearded_tux.png",
+        "logo_alt": "Bearded Tux"
     },
     "footer": {
         "has_nav": true,
